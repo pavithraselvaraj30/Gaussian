@@ -1,4 +1,3 @@
-![Screenshot 2024-04-27 085521](https://github.com/pavithraselvaraj30/Gaussian/assets/149366880/62db3983-5194-409e-a08b-67a7703c41f0)# Gaussian Elimination
 
 ## AIM:
 To write a program to find the solution of a matrix using Gaussian Elimination.
